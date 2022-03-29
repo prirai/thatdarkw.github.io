@@ -4,4 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Yahallo, I'm DarkW, a Cyber Security Enthusiast. In this blog, I'll mostly post infosec related stuff like writeups of CTF challenges or some other stuff which I find interesting...
+Yahallo, I'm DarkW, welcome to the Cave!
+
+In here, I'll mostly post infosec related stuff like writeups of CTF challenges (mostly TryHackMe and HackTheBox for now) or some other things which I find interesting...

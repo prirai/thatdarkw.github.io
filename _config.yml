@@ -21,9 +21,9 @@ timezone: Asia/Tokyo
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: DarkW's Cave                          # the main title
+title: DarkW                          # the main title
 
-tagline: CTF Writeups   # it will display as the sub-title
+tagline: Cave of CTF Writeups   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A blog for CTF Write-ips and other infosec stuff.

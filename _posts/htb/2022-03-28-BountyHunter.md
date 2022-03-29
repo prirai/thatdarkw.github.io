@@ -1,6 +1,6 @@
 ---
-title: Bounty Hacker -- Writeup
-date: 2022-03-28
+title: BountyHunter -- Writeup
+date: 2021-12-01
 categories: [HackTheBox, Easy]
 tags: [hackthebox, ctf, xxe]     # TAG names should always be lowercase
 ---
