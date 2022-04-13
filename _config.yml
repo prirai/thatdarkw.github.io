@@ -26,7 +26,7 @@ title: DarkW                          # the main title
 tagline: Cave of CTF Writeups   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A blog for CTF Write-ips and other infosec stuff.
+  A blog for CTF Writeups and other infosec things.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://thatdarkw.github.io'
