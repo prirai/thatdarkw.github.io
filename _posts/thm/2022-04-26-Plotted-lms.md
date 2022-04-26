@@ -1,6 +1,6 @@
 ---
 title: Plotted-LMS -- Writeup
-date: 2022-04-13
+date: 2022-04-26
 categories: [TryHackMe, Hard]
 tags: [tryhackme, ctf, moodle, cron, logrotten]     # TAG names should always be lowercase
 img_path: /assets/img/tryhackme/plotted-lms/
