@@ -17,6 +17,7 @@ sudo nmap -A <ip>
 ```
 
 This returned 2 open ports.
+
 port      |service
 ----------|----------
 22        |SSH
